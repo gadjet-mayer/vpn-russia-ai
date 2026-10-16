@@ -259,6 +259,7 @@
 | **206** | @myartvpn_bot | 1 день | [🔗 Подключить](https://t.me/myartvpn_bot) |
 | **207** | @synatra_bot | 12ч | [🔗 Подключить](https://t.me/synatra_bot?start=friend_244283954) |
 | **208** | @KIKI_vpn_robot | 12ч | [🔗 Подключить](https://t.me/KIKI_vpn_robot?start=referral_244283954) |
+| **209** | @easy2vpnbot | 7 дней | [🔗 Подключить](https://t.me/easy2vpnbot) |
 
 ---
 
